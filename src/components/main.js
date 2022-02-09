@@ -21,10 +21,10 @@ function Main() {
         </div>
       <h2>Projects</h2>
       <div id='projects'>
-        <h3 id='p1' >Mario Kart</h3>
+        <h3 id='p1' >MARIO KART</h3>
         <div id='mario' ><img id='mariopic' src="https://i.imgur.com/b3SwPCe.png" alt="Mario Kart homepage" /></div>
         <Link to='https://travel-app-sp.netlify.app/' id='travel' ><img id='travelpic' src="https://i.imgur.com/cEZZSt5.png" alt="travel homepage" /></Link>
-        <h3 id='p2' >World Traveler</h3>
+        <h3 id='p2' >WORLD TRAVELER</h3>
         <h3 id='p3' >Pokédex</h3>
         <div id='pokedex'><img id='pokedexpic' src="https://i.imgur.com/kkXkFBC.png" alt="pokedex homepage" /></div>
         <div id='stocks' ><img id='stockspic' src="https://i.imgur.com/paoFVae.png" alt="stocks homepage" /></div>
