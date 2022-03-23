@@ -83,6 +83,16 @@ function Main() {
               alt="WatchList homepage"
             />
           </a>
+          <h3 id="p4">MY MCU</h3>
+          <a href="https://mymcu.herokuapp.com/" id="My MCU" target="_blank">
+            
+            <img
+              id="mcupic"
+              src="https://i.imgur.com/QwT3V18.png"
+              alt="My MCU homepage"
+            />
+          </a>
+        </div>
           <h3 id="p2">WORLD TRAVELER</h3>
           <a
             href="https://travel-app-sp.netlify.app/"
@@ -95,16 +105,6 @@ function Main() {
               alt="travel homepage"
             />
           </a>
-          <h3 id="p4">MY MCU</h3>
-          <a href="https://mymcu.herokuapp.com/" id="My MCU" target="_blank">
-            
-            <img
-              id="mcupic"
-              src="https://i.imgur.com/QwT3V18.png"
-              alt="My MCU homepage"
-            />
-          </a>
-        </div>
       </div>
 
       <h2>Hobbies</h2>
